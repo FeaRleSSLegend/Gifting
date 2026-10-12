@@ -24,3 +24,4 @@ rate limiting/spam protection, retries, analytics, tests, real brand name and le
    `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` (anon key only, never the service-role key).
 4. In Supabase → Authentication → URL Configuration, set the Site URL to your Vercel domain and add it to Redirect URLs.
 5. Set the Edge Function secret `SITE_ORIGIN` to the same domain so the function only accepts requests from your site.
+"# Gifting" 
