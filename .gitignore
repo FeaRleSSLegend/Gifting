@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.vercel/
+.DS_Store
+*.log
+npm-debug.log*
+.idea/
+.vscode/
+supabase/.temp/
+supabase/.branches/
